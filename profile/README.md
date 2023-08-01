@@ -13,5 +13,5 @@ VRChat.vimは、VRChatとVimを愛する人のためのコミュニティです�
 # Vimmer集会
 VRChat.vimでは、VRChat上でVimmer同士で集まるVimmer集会を行っています。詳細はポスター及びその時の告知ツイートをご確認ください。
 <div align=center>
-    ![Vimmer集会のポスター](/poster/vim-poster.png)
+    <img alt="Vimmer集会のポスター" src="/poster/vim-poster.png">
 </div>
